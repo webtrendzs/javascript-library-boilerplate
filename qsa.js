@@ -10,7 +10,7 @@
 (function( document ) {
   '$:nomunge'; // Used by YUI compressor.
 
-  var name = 'QSA', // YOUR LIBRARY'S FULL NAME.
+  var name = 'AWP', // YOUR LIBRARY'S FULL NAME.
       global = this,
       old$ = global.$,
       oldN = global[name];
